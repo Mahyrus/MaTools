@@ -21,4 +21,4 @@ It provides:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/MaTools.git
+   git clone https://github.com/Mahyrus/MaTools.git
